@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2db7a2a3-e9c1-4a2c-92d4-39cf6f450099" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/hien-thi-dau-ra.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuc-hanh-hien-thi-dau-ra-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuc-hanh-hien-thi-dau-ra-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuc-hanh-hien-thi-dau-ra-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuc-hanh-hien-thi-dau-ra.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/....css" beforeDir="false" afterPath="$PROJECT_DIR$/....css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form-dang-ky-nguoi-dung.html" beforeDir="false" afterPath="$PROJECT_DIR$/form-dang-ky-nguoi-dung.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form-goolgle.html" beforeDir="false" afterPath="$PROJECT_DIR$/form-goolgle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Dt88j6oGpJj2MPLL4gKSNYIIdi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2db7a2a3-e9c1-4a2c-92d4-39cf6f450099" name="Changes" comment="" />
+      <created>1661506864339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661506864339</updated>
+      <workItem from="1661506865590" duration="592000" />
+      <workItem from="1661850226402" duration="9000" />
+      <workItem from="1662199811798" duration="1566000" />
+      <workItem from="1662341163614" duration="595000" />
+      <workItem from="1662347859572" duration="18000" />
+      <workItem from="1662347934003" duration="4248000" />
+      <workItem from="1662362627126" duration="1974000" />
+      <workItem from="1662388569080" duration="5766000" />
+      <workItem from="1662425782194" duration="1342000" />
+      <workItem from="1662430582767" duration="5355000" />
+      <workItem from="1662448198141" duration="5062000" />
+      <workItem from="1662480604179" duration="2544000" />
+      <workItem from="1662512768241" duration="759000" />
+      <workItem from="1662517558830" duration="3352000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
